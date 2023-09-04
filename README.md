@@ -83,3 +83,8 @@ In conclusion, multi-label classification plays a vital role in media monitoring
 Recap of Tools Used in Media Monitoring and Their Benefits
 
 The tools used in this process, such as IBM Watson Studio and IBM Cloud, Python and Flask, and a ChatGPT-like UI, each bring their own unique benefits. IBM Watson Studio and IBM Cloud provide powerful machine learning capabilities and cloud computing resources, while Python and Flask offer a versatile programming language and user-friendly web framework. Meanwhile, a ChatGPT-like UI can generate succinct and informative captions, helping users quickly grasp the essence of an article. Together, these tools represent a comprehensive and effective approach to media monitoring.
+
+![image](https://github.com/smartinternz02/SBSPS-Challenge-10404-1691072916/assets/137613929/d088a3ab-8100-4468-b42d-d27def2406b9)
+![image](https://github.com/smartinternz02/SBSPS-Challenge-10404-1691072916/assets/137613929/6c798e21-5777-432a-86d2-43d3f8f627fe)
+
+
